@@ -8,7 +8,7 @@ The repository includes detailed documentation for the application, including a 
 
 This project allowed the developer to gain experience in full-stack development and apply their knowledge of database design and implementation. They also gained valuable experience in project planning and management as they worked on this project independently from start to finish.
 
-## Steps to run the APP
+## Steps to run the APP \endl
 # step 1: git clone or download the repo.
 # step 2: cd root folder.
 # step 3: cd front end and run the command "npm install".
