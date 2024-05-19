@@ -8,13 +8,32 @@ The repository includes detailed documentation for the application, including a 
 
 This project allowed the developer to gain experience in full-stack development and apply their knowledge of database design and implementation. They also gained valuable experience in project planning and management as they worked on this project independently from start to finish.
 
-## ** Steps to run the APP** 
-# step 1: git clone or download the repo.
-# step 2: cd root folder.
-# step 3: cd front end and run the command "npm install".
-# step 4 : cd to backend and run the commadn "npm install"
-# step 5: cd frontend and rung "ng serve" or "npm start".
-# step 6: open a new terminal cd to "backend" run "node index.js" or "npm start".
+# Steps to run the APP:
+
+## Step 1
+**git clone or download the repo.**
+
+## Step 2
+**cd root folder.**
+
+## Step 3
+**cd front end and run the command `npm install`.**
+
+## Step 4
+**cd to backend and run the command `npm install`.**
+
+## Step 5
+**cd frontend and run `ng serve` or `npm start`.**
+
+## Step 6
+**Open a new terminal, cd to `backend`, run `node index.js` or `npm start`.**
+
+Go to [http://localhost:4200/](http://localhost:4200/) and enjoy the app there.
+
+---
+
+**Contributions and feedback are welcome and encouraged!**
+
 Go to the http://localhost:4200/ and enjoy the app there.
 
 Contributions and feedback are welcome and encouraged!
